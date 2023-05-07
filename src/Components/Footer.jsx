@@ -3,7 +3,7 @@ import React from 'react'
 const Footer = () => {
   return (
     <div className='footer'>
-      &copy; copyright  | @ Footer
+      &copy; copyright  | @ DailyGoals
     </div>
   )
 }
